@@ -34,7 +34,7 @@ torchmetrics=1.1.1
 wandb=0.15.10
 ```
 
-More details about arguments are concluded in the paper and code.
+More details about arguments are included in the paper and code.
 
 
 ## Dataset
