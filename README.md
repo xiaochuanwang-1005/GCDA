@@ -25,7 +25,7 @@ File details in GCDA_code.zip:
 
 To perform GCDA training, some major requirements are given below:
 
-```python\
+```python
 numpy=1.24.3\
 scipy=1.10.1\
 torch=2.1.2+cu118\
