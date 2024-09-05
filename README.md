@@ -25,15 +25,14 @@ File details in GCDA_code.zip:
 
 To perform GCDA training, some major requirements are given below:
 
-'''
-   python
-numpy=1.24.3
-scipy=1.10.1
-torch=2.1.2+cu118
-einops=0.7.0
-torchmetrics=1.1.1
-wandb=0.15.10
 ```
+   python\
+numpy=1.24.3\
+scipy=1.10.1\
+torch=2.1.2+cu118\
+einops=0.7.0\
+torchmetrics=1.1.1\
+wandb=0.15.10```
 
 More details about arguments are concluded in the paper and code.
 
