@@ -10,8 +10,8 @@ File details in GCDA_code.zip:
     - `./pretext_model.py`: The pretext model for pre-training mainly include graph diffusion augmentation (GDA) and graph contrastive learning.
     - `./diffusion_model.py`: The main functions for the GDA module mainly include noise unit and denoising neural network.
     - `./noisy_schedule.py`: The transition function in noise unit.
-    - `./transformer_model.py`: The denoising neural network.
-    - `./GIN_encoder.py`: The graph feature extraction backbone. 
+    - `./transformer_model.py`: This is denoising neural network.
+    - `./GIN_encoder.py`: This is graph feature extraction backbone. 
     - `./diffusion_utils.py`: These are some useful functions in the GDA module. 
     - `./diffusion_loss`: This is diffusion loss function.
     - `./extra_features`: The calculating functions for global feature. 
