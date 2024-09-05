@@ -2,7 +2,7 @@
 
 This is the implementation for  our paper "Self-Supervised Graph Contrastive Learning with Diffusion Augmentation for Functional MRI Analysis and Brain Disorder Detection (GCDA)". Code developed and tested in Python 3.9.17 using PyTorch 2.1.2+cu118. 
 
-# Package Structure 
+## Package Structure 
 
 File details in GCDA_code.zip:
 
@@ -21,7 +21,7 @@ File details in GCDA_code.zip:
     - `./fine_tune_model.py`: The task-specific model for fine-tuning.
     - `./dataset1`: Data preparation for fine-tuning. 
 
-# Requirements
+## Requirements
 
 To perform GCDA training, some major requirements are given below:
 
@@ -37,14 +37,14 @@ wandb=0.15.10
 More details about arguments are concluded in the paper and code.
 
 
-# Dataset
+## Dataset
     
   We used the following datasets:
  
 - ABIDE (Can be downloaded [here](http://fcon_1000.projects.nitrc.org/indi/abide/))
 - REST-meta-MDD (Can be downloaded [here](http://rfmri.org/REST-meta-MDD))
 
-# Contact
+## Contact
 
 If you have any questions about the code of GCDA, please contact me through ``xiaochuan10052022@163.com``.
 
